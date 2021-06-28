@@ -1,0 +1,1 @@
+import { RootNavigator } from "./rootnavigation" 
